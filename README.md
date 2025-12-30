@@ -28,13 +28,11 @@ Tools:
 ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
 
 
-📊 GitHub Stats
+📌 What I Do
 
-![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=yasinhusenwako&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=yasinhusenwako&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=yasinhusenwako&theme=tokyonight)
+- Design and develop full-stack web applications  
+- Build clean and maintainable codebases  
+- Learn and experiment with new tools & frameworks
 
 📫 Connect With Me
 
