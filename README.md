@@ -29,12 +29,12 @@ Tools:
 
 
 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasinhusenwako&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinhusenwako&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=yasinhusenwako&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=yasinhusenwako&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yasinhusenwako&theme=tokyonight)
-
 
 📫 Connect With Me
 
