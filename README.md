@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&width=700&lines=Hi+there%2C+I'm+Yasin+Husen!;Welcome+to+my+GitHub+Profile!;Software+Engineer+%26+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&width=700&lines=👋 Hi+there%2C+I'm+Yasin+Husen!;Welcome+to+my+GitHub+Profile!;Software+Engineer+%26+Web+Developer" alt="Typing SVG" />
 </p>
-
-👋 Hi, I'm Yasin Husen
 
  💻 Software Engineer | Web Developer
 
