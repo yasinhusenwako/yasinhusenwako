@@ -1,15 +1,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&width=700&lines=Hi+there%2C+I'm+Yasin+Husen!;Welcome+to+my+GitHub+Profile!;Software+Engineer+%26+Web+Developer" alt="Typing SVG" />
 </p>
-
 I enjoy transforming ideas into scalable and user-friendly digital solutions.  
 Always exploring modern web technologies and improving my craft.
 
-
  🚀 Tech Stack
 
-Frontend:  
-
+Frontend: 
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -18,7 +15,6 @@ Frontend:
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
 
 Backend & Database:
-
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
@@ -28,7 +24,6 @@ Tools:
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
-
 
 📌 What I Do
 
@@ -41,6 +36,5 @@ Tools:
 - Email: yhusen636@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/yasin-husen-79a3a5364/
 - Portfolio: https://personalportfolio11.vercel.app/
-
 
 ⭐ _Thanks for visiting! Feel free to explore my repositories and collaborate!_
