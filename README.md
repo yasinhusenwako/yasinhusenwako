@@ -29,8 +29,7 @@ Tools:
 
 
 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[yasinhusenwako](https://github.com/yasinhusenwako)&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasinhusenwako&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinhusenwako&layout=compact&theme=tokyonight)
 
