@@ -33,12 +33,6 @@ Tools:
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
 
-📌 What I Do
-
-- Design and develop full-stack web applications  
-- Build clean and maintainable codebases  
-- Learn and experiment with new tools & frameworks
-
  🌍 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yhusen636@gmail.com)
