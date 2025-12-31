@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&width=700&lines=Hi+there%2C+I'm+Yasin+Husen!;Welcome+to+my+GitHub+Profile!;Software+Engineer+%26+Web+Developer" alt="Typing SVG" />
 </p>
 I enjoy transforming ideas into scalable and user-friendly digital solutions.  
+
 Always exploring modern web technologies and improving my craft.
 
 
