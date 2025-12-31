@@ -40,7 +40,7 @@ Tools:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yhusen12)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RKsHDQXN)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Hot_Support_665)
-[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YasinHusen71367)
+[![X](https://img.shields.io/badge/(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YasinHusen71367)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personalportfolio11.vercel.app/)
 
 ⭐ _Thanks for visiting! Feel free to explore my repositories and collaborate!_
